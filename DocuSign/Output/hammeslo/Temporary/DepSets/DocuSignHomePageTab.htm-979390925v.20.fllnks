@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/images/Docusign Home screen.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Last 6 months.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Signed By.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Info links.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Add Docs.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/images/Docusign Home screen.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Last 6 months.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Signed By.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Info links.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Add Docs.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

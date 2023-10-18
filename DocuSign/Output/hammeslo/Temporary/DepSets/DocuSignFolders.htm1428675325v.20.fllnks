@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/images/docusign_Folders1.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders2.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders3.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders4.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders5A.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders5B.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/images/docusign_Folders1.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders2.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders3.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders4.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders5A.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_folders5B.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

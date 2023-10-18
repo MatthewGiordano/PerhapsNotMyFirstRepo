@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/DocuSign/DocuSignTemplatesTab.htm" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc1.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc2.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc3.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc4.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc6.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc7.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc8.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc9A.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc9B.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc10.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc11.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc12.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc13.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc14.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc16.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc20.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc15.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/DocuSign/DocuSignTemplatesTab.htm" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc1.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc2.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc3.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc4.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc6.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc7.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc8.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc9A.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc9B.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc10.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc11.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc12.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc13.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc14.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc16.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc20.png" />
+    <Link
+      Url="Content/Resources/Images/images/docusign_senddoc15.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

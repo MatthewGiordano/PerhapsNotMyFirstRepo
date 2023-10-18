@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/images/Docusign profile page blurred.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign My Profile.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Privacy and Security.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Connected Apps.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Signatures.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Edit Signature.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Draw signature.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Upload.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Stamps.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Language and Region.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign General settings.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Preferences.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/images/Docusign profile page blurred.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign My Profile.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Privacy and Security.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Connected Apps.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Signatures.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Edit Signature.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Draw signature.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Upload.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Stamps.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Language and Region.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign General settings.png" />
+    <Link
+      Url="Content/Resources/Images/images/Docusign Preferences.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

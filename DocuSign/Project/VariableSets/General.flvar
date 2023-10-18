@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Martin Marietta Materials">Martin Marietta Materials</Variable>
+  <Variable
+    Name="Updated"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2018-06-07T11:23:57.7806534-07:00"
+    EvaluatedDefinition="MMMM dd, yyyy hh:mm:ss">MMMM dd, yyyy hh:mm:ss</Variable>
+</CatapultVariableSet>

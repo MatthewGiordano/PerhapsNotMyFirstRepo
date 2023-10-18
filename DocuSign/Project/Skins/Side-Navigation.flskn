@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Side Navigation skin"
+  EnableResponsiveOutput="True"
+  AutoSyncTOC="true">
+  <WebHelpOptions
+    NavigationPanePosition="Right"
+    OffCanvasMenuStyle="Drilldown"
+    MainMenuPosition="Left"
+    EnableSticky="All" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Side Navigation Menu Item (selected)">
+        <Properties>
+          <Property
+            Name="FontWeight">bold</Property>
+          <Property
+            Name="FontSize">1em</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Input">
+        <Properties>
+          <Property
+            Name="Color">#45494c</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Filter Drop-down">
+        <Properties>
+          <Property
+            Name="Color">#45494c</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Auto-complete">
+        <Properties>
+          <Property
+            Name="BorderTop">solid 1px #45494c</Property>
+          <Property
+            Name="BorderRight">solid 1px #45494c</Property>
+          <Property
+            Name="BorderBottom">solid 1px #45494c</Property>
+          <Property
+            Name="BorderLeft">solid 1px #45494c</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Auto-complete Item (selected)">
+        <Classes>
+          <StyleClass
+            Name="Project Content">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#d0d3d5</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Search History">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#d0d3d5</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+        <Properties>
+          <Property
+            Name="BackgroundColor">#d0d3d5</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Auto-complete Item: Description">
+        <Properties>
+          <Property
+            Name="Color">#45494c</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Side Navigation Menu Item">
+        <Classes>
+          <StyleClass
+            Name="Expander Icon">
+            <Properties>
+              <Property
+                Name="ExpanderBorderColor">#b9bec1</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Style
+        Name="Search Heading">
+        <Properties>
+          <Property
+            Name="Color">#45494c</Property>
+          <Property
+            Name="BorderBottom">solid 1px #d0d3d5</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Suggestion Link">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (active)">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (focus)">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (visited)">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Path">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Glossary Result">
+        <Properties>
+          <Property
+            Name="BoxShadowColor">#b9bec1</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Pagination Item">
+        <Properties>
+          <Property
+            Name="BorderTop">solid 1px #ffffff</Property>
+          <Property
+            Name="BorderRight">solid 1px #ffffff</Property>
+          <Property
+            Name="BorderBottom">solid 1px #ffffff</Property>
+          <Property
+            Name="BorderLeft">solid 1px #ffffff</Property>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Pagination Item (selected)">
+        <Properties>
+          <Property
+            Name="BorderTop">solid 1px #d0d3d5</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Pagination Item (hover)">
+        <Properties>
+          <Property
+            Name="BorderTop">solid 1px #d0d3d5</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="Search Auto-complete Item (selected)">
+          <Properties>
+            <Property
+              Name="BackgroundColor">#d0d3d5</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel">
+          <Properties>
+            <Property
+              Name="BackgroundColor">#303335</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel Item">
+          <Properties>
+            <Property
+              Name="BorderBottom">solid 1px #303335</Property>
+          </Properties>
+          <Classes>
+            <StyleClass
+              Name="Expander Icon">
+              <Properties>
+                <Property
+                  Name="ExpanderBorderColor">#b9bec1</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+        <Style
+          Name="Navigation Panel Item (hover)">
+          <Properties>
+            <Property
+              Name="BackgroundColor">#303335</Property>
+            <Property
+              Name="Color">#b9bec1</Property>
+          </Properties>
+        </Style>
+      </Medium>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#076685</Property>
+          <Property
+            Name="BackgroundGradient">vertical #007dc6 transparent</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Link">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Path">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Link (active)">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Link (focus)">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Link (hover)">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Link (visited)">
+        <Properties>
+          <Property
+            Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Button">
+        <Properties>
+          <Property
+            Name="BackgroundRepeat">no-repeat</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('Copy%20of%20500px-Martin_Marietta_logo.svg-removebg-preview.png')</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Stylesheet></Stylesheet>
+    <Resources>
+      <Resource
+        Name="Copy of 500px-Martin_Marietta_logo.svg-removebg-preview.png">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</Resource>
+    </Resources>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>
